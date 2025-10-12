@@ -1,2 +1,3 @@
 # Note
-These notes are not finished,especially the note for Seiburg Witten,it's a note for what I learnt in Amherst,including secondary operator,Seiburg Wafa,Hori Vafa.I may finish them in this summer holiday.
+The notes of Seiburg-witten and symTFT are written in June, they are summaries about what I learnt in PMQFTSS held in Umass University.
+The summary about SUSY is a part of my recent work about N=1 guage theory.
